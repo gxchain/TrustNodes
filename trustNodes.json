@@ -268,7 +268,13 @@
         "logo": "https://static.gxb.io/dapp/blockcity/nodevote/39.png",
         "nodeDesc": "liuxufei 所属团队是专注于比特币、以太坊、量子、EOS、比特股、公信宝等数字资产的一个团队，专注于互联网为代表的新经济领域的早期投资。于2012年起开始涉足比特币等相关数字货币领域，早期参与了比特币、莱特币、比特股等数字货币的挖矿、见证人、投资与对冲套利，拥有一支专注于数字货币领域的精英团队。",
 
-        "accountName": "liuxufei"
+        "accountName": "liuxufei",
+	"location": {
+	    "city": "FoShan",
+	    "country": "China",
+	    "longitude": 113.11550,
+	    "latitude": 22.96456
+	}
     },
     {
         "nodeName": "TLAB",
