@@ -134,7 +134,13 @@
         "logo": "https://static.gxb.io/dapp/blockcity/nodevote/17.png",
         "nodeDesc": "公信宝的深度爱好者、铁杆支持者和重仓持有者，经历了公信宝诞生、起步、壮大的每一步，创建了公信宝俱乐部社群，在全国各地组织过多次线下公信宝的宣传活动，熟悉和认同公信宝的使命愿景价值观，愿意同公信宝团队一起用区块链技术重构信用社会，让个人真正成为自己数据的主人。",
 
-        "accountName": "xinlai-bp"
+        "accountName": "xinlai-bp",
+	"location": {
+            "city": "Beijing",
+            "country": "China",
+            "longitude": 116.3972,
+            "latitude": 39.9075
+        }
     },
     {
         "nodeName": "祝雪娇",
