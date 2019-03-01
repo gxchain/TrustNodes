@@ -284,10 +284,10 @@
         "logo": "https://static.gxb.io/dapp/blockcity/nodevote/43.png",
         "nodeDesc": "布洛克城是全球用户进入区块链世界的入口，是基于GXChain开发的大型个人移动端应用。布洛克城通过数据挖宝模式吸引了海量用户，并入驻了丰富的精品区块链应用，为全球用户提供多元化服务，帮助用户探索独特的区块链世界。布洛克城旨在打造流量最大最活跃的区块链应用平台，赋能区块链应用落地，并让区块链落地民生。在未来，布洛克城将致力于服务可信数据经济，让公民成为自己数据的主人，让数据为公民自己所用，在用户授权的情况下，充分激活数据潜力，丰富数据的应用场景。打造尊重用户隐私的区块链应用生态，用区块链重建可信的数据经济社会。",
 
-        "accountName": "blockcitybp"，
+        "accountName": "blockcitybp",
 	"location": {
 	    "city": "ShangHai",
-	    "country": "China"，
+	    "country": "China",
 	    "longitude": 121.48941,
 	    "latitude": 31.40527
 	}
