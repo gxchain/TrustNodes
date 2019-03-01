@@ -177,7 +177,13 @@
         "logo": "https://static.gxb.io/dapp/blockcity/nodevote/24.png",
         "nodeDesc": "Prophet Set Technology Ltd（以下简称”Prophet Set”）于2018年5月在英属维尔京群岛BVI成立，团队共有20人，其中技术团队10人、运营团队5人。目前旗下开发及运营基于GXChain的移动社交类预测平台——预言家Prophet。平台充分利用分布式公开账本增加预测市场的透明度，通过数字代币经济激励开发者在平台发布预测项目，将自己的智慧进行社区共享，为用户提供不同类型的预测事件,汇聚用户群体智慧从而有效的预测未来。\n预言家Prophet是布洛克城上的明星产品之一，目前拥有注册用户51万，平台每月充值流水达50000GXC以上，在微信、Telegram、Kakao Talk（韩国）均有稳固和丰富的社群基础。同时，Prophet也与业内30余家优质项目及流量入口达成战略合作，共建社群，共享生态资源。\nProphet Set于今年6月份完成机构轮融资，由公信宝、公信资本、了得资本、分布式资本沈波、哈希资本、星合资本及bit-z领投。",
 
-        "accountName": "gxc-prophet"
+        "accountName": "gxc-prophet",
+	"location": {
+            "city": "HangZhou",
+            "country": "China",
+            "longitude": 120.21201,
+            "latitude": 30.2084
+        }
     },
     {
         "nodeName": "BitAsset Group Limited",
