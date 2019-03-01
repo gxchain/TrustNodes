@@ -53,7 +53,13 @@
         "logo": "https://static.gxb.io/dapp/blockcity/nodevote/7.png",
         "nodeDesc": "CertiK 致力于通过全球领先的深度规范技术，利用形式化验证重构大家对于智能合约和区块链的信任。CertiK能提供最有竞争力的规模化智能合约验证服务，来保证智能合约和区块链系统的安全性与可靠性。CertiK的服务，目前主要是针对智能合约(smart contract)进行形式化验证(formal verification)，力争从理论上证明代码实现的正确性，从而巩固合约的安全。CertiK与Binance,Huobi,Bgogo等知名交易所建立了战略合作关系，并为近百家区块链公司提供了智能合约安全审核服务。\n\nCertiK是由来自于耶鲁大学，哥伦比亚大学和硅谷的精英团队组成，联合创始人邵中是耶鲁大学计算机系系主任、终身冠名教授，30余年安全领域经验。联合创始人顾荣辉是哥伦比亚大学计算机系助理教授。",
 
-        "accountName": "certik-gxc"
+        "accountName": "certik-gxc",
+	"location": {
+		    "city": "Portland",
+		    "country": "United States",
+		    "longitude": -122.6785,
+		    "latitude": 45.5152
+	    } 
     },
     {
         "nodeName": "时戳资本",
