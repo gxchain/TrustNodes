@@ -182,7 +182,14 @@
         "logo": "https://static.gxb.io/dapp/blockcity/nodevote/23.png",
         "nodeDesc": "节点亚太科技是亚洲领先的区块链公司。我们以亚太地区为基地，为那些对亚太地区感兴趣的人建立本地和全球社区。我们为全球开发者提供亚太接入和一站式解决方案。我们目前正在推广石墨烯技术，并致力于成为众多公链的区块生产者。",
 
-        "accountName": "gxcpacific"
+        "accountName": "gxcpacific",
+	"location": {
+			"city": "Singapore",
+			"country": "Singapore",
+                        "longitude": 103.851632,
+			"latitude": 1.338197
+			
+		}
     },
     {
         "nodeName": "预言家Prophet",
