@@ -204,8 +204,13 @@
         "nodeName": "猩力量（Lucia）",
         "logo": "https://static.gxb.io/dapp/blockcity/nodevote/29.png",
         "nodeDesc": "上海凤浩智能科技有限公司，于今年三月份成立。公司主要项目为Lucia，旨在用区块链技术解决长租线上租赁假房源、不履约、押金高等信任问题。3月与公信宝达成战略合作，并获公信宝千万天使投资。\nLucia在项目早期得到了各行各业的认可与支持。Lucia区块链+长",
-
-        "accountName": "lucia-committee"
+        "accountName": "lucia-committee",
+	 "location": {
+	    "city": "QingDao",
+	    "country": "China",
+	    "longitude": 120.41895,
+	    "latitude": 36.19780
+	}
     },
     {
         "nodeName": "币须达摩",
