@@ -75,7 +75,13 @@
         "logo": "https://static.gxb.io/dapp/blockcity/nodevote/11.png",
         "nodeDesc": "BEPAL（币派）是一家提供数字资产管理服务的公司，在区块链安全及数字资产安全管理方面有着丰富经验，现已成功推出BEPAL Wallet个人数字资产钱包、BEPAL Pro、Q、Card系列安全硬件、BEPAL Enterprise企业数字资产管理平台等产品。其中，Bepal Pro S硬件钱包斩获“中国最佳硬件钱包”、“区块链最受关注安全 硬件”等多个奖项。未来，BEPAL将继续致力于推动数字资产管理服务生态。",
 
-        "accountName": "bepal"
+        "accountName": "bepal",
+        "location": {
+            "city": "WenZhou",
+            "country": "China",
+            "longitude": 120.71273,
+            "latitude": 27.99286
+        }
     },
     {
         "nodeName": "深圳市星际大陆科技有限公司",
