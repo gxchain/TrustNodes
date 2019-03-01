@@ -131,7 +131,13 @@
         "logo": "https://static.gxb.io/dapp/blockcity/nodevote/20.png",
         "nodeDesc": "公信链社区早期开发者。参与公信链前期开源项目测试、对公信链的技术文档以及布洛克城的技术文档进行了部分完善和测试。公信链github项目上的贡献者，例：core、exploer、wallet、des等。贡献了baas-sdk 、common-sdk php版",
 
-        "accountName": "gxcmoon"
+        "accountName": "gxcmoon",
+	"location": {
+		    "city": "GuangZhou",
+		    "country": "China",
+		    "longitude": 113.27324,
+		    "latitude": 23.15792
+	}
     },
     {
         "nodeName": "雾计算",
