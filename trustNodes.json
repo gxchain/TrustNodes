@@ -264,7 +264,7 @@
 	    "location": {
 		    "city": "ShenZhen",
 		    "country": "China",
-		    "longitude": 113.94663
+		    "longitude": 113.94663,
 		    "latitude": 22.52708
 	    }
     },
@@ -304,7 +304,7 @@
 	"location": {
 	    "country": "China",
 	    "city": "BeiJing",
-	    "longitude": 116.4510277
+	    "longitude": 116.4510277,
 	    "latitude": 39.9191221
 	}
     },
