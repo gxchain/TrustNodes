@@ -75,8 +75,14 @@
     {
         "nodeName": "GXCLaoMao",
         "logo": "https://static.gxb.io/dapp/blockcity/nodevote/10.png",
-        "nodeDesc": "EOSLaoMao 由区块链行业知名投资人老猫发起。 旨在维护一个公平稳定的 GXC 节点，该项目所有的收益在扣除必要的开支之后，将被用于促进 gxc 社区的建设。 具体方式包括但不限于奖励开发者，开展线上/线下活。",
-        "accountName": "laomao-bp"
+        "nodeDesc": "EOSLaoMao 由区块链行业知名投资人老猫发起。 旨在维护一个公平稳定的 GXC 节点，该项目所有的收益在扣除必要的开支之后，将被用于促进 GXC 社区的建设。 具体方式包括但不限于奖励开发者，开展线上/线下活动。",
+        "accountName": "laomao-bp",
+	"location": {
+            "city": "Tokyo",
+            "country": "Japan",
+            "longitude": 139.7454329,
+            "latitude": 35.6585805
+        }
     },
     {
         "nodeName": "BEPAL",
