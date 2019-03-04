@@ -64,7 +64,13 @@
         "nodeName": "时戳资本",
         "logo": "https://static.gxb.io/dapp/blockcity/nodevote/8.png",
         "nodeDesc": "时戳资本是依托于巴比特的专业区块链投资机构，聚焦于区块链领域的研究、投资及咨询服务，是最早专注于区块链与数字货币资产领域的风险投资机构之一，致力于服务区块链创业者，以发现价值，创造价值，分享价值的理念共建区块链生态。\n时戳资本为区块链项目团队提供一体化的综合服务，优化经济模型选型、协助合规架构搭建、加速全球社区建设等，助推区块链项目应用落地并服务于实体产业。已投项目包括:本体、FCoin、比原链、AELF等",
-        "accountName": "time-stamp"
+        "accountName": "time-stamp",
+	"location": {
+            "city": "HangZhou",
+            "country": "China",
+            "longitude": 120.21201,
+            "latitude": 30.2084
+        }
     },
     {
         "nodeName": "哈佛肯尼迪政府学院区块链与数字货币协会",
