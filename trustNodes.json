@@ -118,7 +118,14 @@
     {
         "nodeName": "麦子钱包",
         "logo": "https://static.gxb.io/dapp/blockcity/nodevote/13.png",
-        "accountName": "math-wallet"
+	"nodeDesc": "Math Wallet is a powerful and secure universal crypto wallet that enables storage of all BTC, ETH/ERC20, NEO/NEP5, EOS, TRON, ENU/Telos/EOSC/BOS tokens, supports cross-chain token exchange and a multi-chain DApp store.",
+        "accountName": "math-wallet",
+	"location": {
+		    "city": "ShangHai",
+		    "country": "China",
+		    "longitude": 121.49701,
+		    "latitude": 31.23897
+	}
     },
     {
         "nodeName": "慢雾区（SlowMistZone）",
