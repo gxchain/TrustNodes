@@ -335,7 +335,12 @@
         "nodeName": "TLAB",
         "logo": "https://static.gxb.io/dapp/blockcity/nodevote/40.png",
         "nodeDesc": "TLAB，数字券商（持有香港证券全牌照），以研究为基础，辐射投资、投行、资产管理以及财务咨询等业务，形成标准化的区块链金融服务范式，将从数字金融服务出发，助力公信宝生态发展。",
-        "accountName": "tlab"
+        "accountName": "tlab",
+	"location": {
+	    "city": "Hong Kong",
+	    "country": "China",
+	    "longitude": 114.16546,
+	    "latitude": 22.27534
     },
     {
         "nodeName": "GenaroNetwork",
