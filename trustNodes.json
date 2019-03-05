@@ -46,7 +46,13 @@
         "nodeName": "GXChain Wifire",
         "logo": "https://static.gxb.io/dapp/blockcity/nodevote/6.png",
         "nodeDesc": "光载无限（北京）科技有限公司是网络基础设施创新服务提供商，由启迪控股和世纪互联共同投资创立。目前在分布式 IDC 上拥有中国三大电信接口、数 T 流量资源，在 CDN 方面拥有三百多个节点，旗下牛盾云具备抗 DDoS、连线运维及大带宽的管理能力。在中国、欧美、亚太地区，拥有可控节点数十处，在国内拥有网络节点 300 余处，遍布全国重点省市，跨越中国电信、移动、联通、铁通、教育网、科技网、长城宽带等各大运营商，带宽总量超过 3TB。",
-        "accountName": "wifire0"
+        "accountName": "wifire0",
+	"location": {
+	"city": "BeiJing",
+	"country": "China",
+	"longitude": 116.397128,
+	"latitude": 39.916527
+	    }
     },
     {
         "nodeName": "CertiK",
