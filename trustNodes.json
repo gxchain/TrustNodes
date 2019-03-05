@@ -137,7 +137,13 @@
         "nodeName": "全球石墨烯区块链应用中心",
         "logo": "https://static.gxb.io/dapp/blockcity/nodevote/15.png",
         "nodeDesc": "石墨烯应用中心（http://gbacenter.org/）是由国内外石墨烯生态的核心人士共同发起，涵盖开发者社区、区块链研发企业、投资机构、媒体、交易所、垂直社区、网络安全团队等资源。石墨烯应用中心秉持“技术赋能石墨烯区块链生态”的初心，通过聚集国内外顶尖石墨烯区块链开发者、打造技术社区、开展技术研究、组织开发者大会及黑客松活动等形式向开发者为主的公众推广和宣传石墨烯区块链技术。\n2018年上半年，主办2次石墨烯区块链开发者大会，包含GXChain在内的30+项目技术负责人参与演讲，规模超千人(http://blockgeek.io/graphene/index.html)。\n未来，石墨烯应用中心将继续推动以下三个方面的发展\n一 石墨烯区块链+实体经济实验室，与工业界结合赋能实体经济。\n二 成立实体的分布式服务器基地，让区块链项目实现真正的安全、可靠的分布式布局。\n三 推进与政府、学界、开发者群体等的合作，将包含GXChain在内的石墨烯生态发展壮大。",
-        "accountName": "gbac-gxc"
+        "accountName": "gbac-gxc",
+	"location": {
+		    "city": "ShangHai",
+		    "country": "China",
+		    "longitude": 121.48941,
+		    "latitude": 31.40527
+	}
     },
     {
         "nodeName": "GXCDAC",
