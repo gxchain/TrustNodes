@@ -323,7 +323,13 @@
         "nodeName": "LendChain",
         "logo": "https://static.gxb.io/dapp/blockcity/nodevote/37.png",
         "nodeDesc": "LendChain是由GXChain开发的数字资产金融服务平台，即加密数字货币银行。该平台已经运营了六个月，目前已上线BTC，ETH，BCH、GXC和QKC等多个主流币种的抵押借贷服务，即加密数字货币的p2p。在融资端，LendChain提供抵押类和信用类融资服务，在投资端，LendChain拥有专业投研团队，为理财用户提供固定收益、浮动收益等多样化的投资产品。\n目前，公司专注于中国，韩国和亚洲市场的发展。截止现在，已拥有全球有170,000多名注册用户和6万多名持币用户。\n一、从技术层面：LendChain是基于GXChain开发的数字资产金融服务平台，将配合公信宝给予技术支持，保证服务器和技术运维上以及节点的运行稳定；\n二、从业务、运营层面：\n1､LendChain上线了GXC并与布洛克城共享着一批生态用户，同LendChain也滋养着布洛克城用户，这让双方的项目将有一个更好的用户粘性；\n2､LendChain目前上线了BCH、EOS、DACC和QKC等币种，并和他们建立了良好的生态社区合作，共享社区用户，未来也将不断的和其他主流币种合作壮大社区用户，同时也为公信宝带来宣传和引流；",
-        "accountName": "lendchain"
+        "accountName": "lendchain",
+    	"location": {
+	    "country": "China",
+	    "city": "HangZhou",
+	    "longitude": 120.12178,
+	    "latitude": 30.28193
+	}
     },
     {
         "nodeName": "GXFormulA",
