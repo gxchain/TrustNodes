@@ -421,5 +421,17 @@
         "logo": "https://static.gxb.io/dapp/blockcity/nodevote/46.png",
         "nodeDesc": "币圈行情资讯龙头企业，为数百万专业人士提供行情服务。",
         "accountName": "fxhjd"
+    },
+    {
+        "nodeName": "GX-ONE",
+        "logo": "https://user-images.githubusercontent.com/16688013/56867318-ce226800-69b1-11e9-917f-048a0e76605a.png",
+        "nodeDesc": "gx-one 是 ONEXPO壹展 旗下的公信节点，致力于链接东南亚的第一窗口，以新加坡为中心，打造东南亚 gx-one 活跃的线上与线下的社群生态。ONEXPO壹展 是东南亚最专业的区块链生态服务机构，2013 年成立至今，通过多年东南亚咨询及活动策展等一站式落地服务，完成多场大型区块链会议以及行业内资源生态对接，连接起中国与东南亚的区块链行业合作。",
+        "accountName": "gx-one",
+        "location": {
+            "country": "Singapore",
+            "city": "Singapore",
+            "longitude": 103.8198,
+            "latitude": 1.3521
+        }
     }]
 }
