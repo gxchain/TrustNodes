@@ -445,5 +445,11 @@
         "logo": "https://static.gxb.io/dapp/blockcity/nodevote/50.png",
         "nodeDesc": "“Life of simple Ordinary!”\nINBEX，是(株) Chainquarters公司旗下的加密货币交易所品牌，也是韩国科斯 达克市场(相当于创业板)上市公司直接运营的已公开有透明的加密货币交易 所。 为了打造能够让客户实现资产价值，团队整整准备了2年时间，终于开设了以 原则为首，抢先制定系统标准，提供可靠的投资环境，以及促进区块链生态系 统健康发展的加密货币交易所-INBEX。 INBEX已与在全球有影响力的投资，技术以及信息安全等各领域专家团队建立 紧密合作关系，帮助客户挖掘价值，提供可靠的投资信息，成为韩国加密货币 交易所的典范。",
         "accountName": "inbex-pool"
+    },
+    {
+        "nodeName": "HillstoneBlockchainCenter",
+        "logo": "https://static.gxb.io/dapp/blockcity/nodevote/51.png",
+        "nodeDesc": "“Hillstone Blockchain Center，是韩国并购基金兼虚拟币基金hillstone partners黄罗烈发起的链接相关在韩区块链产业生态的机构，内设学会及研究院（与高校教授，海外调研机构一起合作），协会（韩国相关区块链以及支付技术协会一起），技术团队，社群建立及营销团队在内，覆盖了韩国区块链产业里包含政府，学校，项目，基金，媒体等在内的各个领域，也是在韩国相关媒体报道最多的一家区块链机构之一，黄罗烈代表曾担任区块链项目真人秀’blockbattle’ 第一季的评委，担当起了牵引节目的重要角色。",
+        "accountName": "hillstone-bc-center"
     }]
 }
