@@ -449,7 +449,13 @@
     {
         "nodeName": "HillstoneBlockchainCenter",
         "logo": "https://static.gxb.io/dapp/blockcity/nodevote/51.png",
-        "nodeDesc": "“Hillstone Blockchain Center，是韩国并购基金兼虚拟币基金hillstone partners黄罗烈发起的链接相关在韩区块链产业生态的机构，内设学会及研究院（与高校教授，海外调研机构一起合作），协会（韩国相关区块链以及支付技术协会一起），技术团队，社群建立及营销团队在内，覆盖了韩国区块链产业里包含政府，学校，项目，基金，媒体等在内的各个领域，也是在韩国相关媒体报道最多的一家区块链机构之一，黄罗烈代表曾担任区块链项目真人秀’blockbattle’ 第一季的评委，担当起了牵引节目的重要角色。",
-        "accountName": "hillstone-bc-center"
+        "nodeDesc": "Hillstone Blockchain Center，是韩国并购基金兼虚拟币基金hillstone partners黄罗烈发起的链接相关在韩区块链产业生态的机构，内设学会及研究院（与高校教授，海外调研机构一起合作），协会（韩国相关区块链以及支付技术协会一起），技术团队，社群建立及营销团队在内，覆盖了韩国区块链产业里包含政府，学校，项目，基金，媒体等在内的各个领域，也是在韩国相关媒体报道最多的一家区块链机构之一，黄罗烈代表曾担任区块链项目真人秀’blockbattle’ 第一季的评委，担当起了牵引节目的重要角色。",
+        "accountName": "hillstone-bc-center",
+	"location": {
+            "country": "Korea",
+            "city": "Seoul",
+            "longitude": 127.0370,
+            "latitude": 37.5006
+        }
     }]
 }
