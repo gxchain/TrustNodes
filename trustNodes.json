@@ -469,5 +469,16 @@
             "longitude": 127.0370,
             "latitude": 37.5006
         }
+    },{
+        "nodeName": "火星财经",
+        "logo": "https://static.gxb.io/dapp/blockcity/nodevote/52.png",
+        "nodeDesc": "火星财经于2018年2月8日正式成立，由蓝港互动集团创始人王峰亲自操刀一手创办，通过网站、App、微信公众号、微博、头条号等载体，为用户提供资讯、数据、行情、研究和社区等服务，致力于以内容驱动的、基于数据和行情的聚合交易平台",
+        "accountName": "huoxing24",
+	"location": {
+	    "country": "China",
+	    "city": "BeiJing",
+	    "longitude": 116.4510277,
+	    "latitude": 39.9191221
+	}
     }]
 }
