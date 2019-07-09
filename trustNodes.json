@@ -480,5 +480,16 @@
 	    "longitude": 116.4510277,
 	    "latitude": 39.9191221
 	}
+    },{
+        "nodeName": "GXTOP",
+        "logo": "https://www.gxchaintop.org/Public/Gxs/img/logo.png",
+        "nodeDesc": "GXTOP目前社区成员多为北美的公信宝支持者和生态相关伙伴。美东现在的工作如火如荼，GXTOP将通过努力撑起公信宝美西以及美中的工作，以达到覆盖全美的战略布局。",
+        "accountName": "gxtop",
+        "location": {
+            "city": "GuangZhou",
+            "country": "China",
+            "longitude": 113.27324,
+            "latitude": 23.15792
+        }
     }]
 }
