@@ -491,5 +491,11 @@
             "longitude": 113.27324,
             "latitude": 23.15792
         }
+    },
+    {
+        "nodeName": "LongBit长币网",
+        "logo": "https://static.gxb.io/dapp/blockcity/nodevote/54.png",
+        "nodeDesc": "LongBit旨在打造一个安全稳定、透明、公正的全球化数字资产交易平台，为全球用户提供高流动性，高性能，便捷程度高的数字货币交易服务，为项目提供全链条的投行顾问服务。在产品上，LongBit结合便捷OTC市场、聚合币币交易、专业合约交易三大交易模块，瞄准目前币圈存量交易用户，并切入币圈观望者、去中心化交易所、区块链社区、游戏用户等新兴增量用户。",
+        "accountName": "longbit-bp"
     }]
 }
