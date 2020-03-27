@@ -503,5 +503,17 @@
             "longitude": 55.4667,
             "latitude": -4.6667
         }
+    },
+    {
+        "nodeName": "链嗅网",
+        "logo": "https://www.chainxiu.com/chainxiu.jpg",
+        "nodeDesc": "链嗅网聚合优质的创新信息与人群，捕获精选|深度|犀利的区块链新闻、资讯、行情、数据。在链嗅，不错过区块链的每个重要时刻。为区块链创业者以及数字货币投资者提供最好的产品和服务，链嗅网一直在努力。",
+        "accountName": "chainxiu",
+        "location": {
+            "country": "China",
+            "city": "hangzhou",
+            "longitude": 120.15,
+            "latitude": 30.28
+        }
     }]
 }
