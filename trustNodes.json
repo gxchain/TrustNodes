@@ -515,5 +515,17 @@
             "longitude": 120.15,
             "latitude": 30.28
         }
+    },
+    {
+        "nodeName": "节点易",
+        "logo": "https://www.nodeasy.com/nodeasy_360_360.jpg",
+        "nodeDesc": "Nodeasy.com，助你进入Staking时代！",
+        "accountName": "nodeasy2020",
+        "location": {
+            "country": "China",
+            "city": "hangzhou",
+            "longitude": 120.15,
+            "latitude": 30.28
+        }
     }]
 }
