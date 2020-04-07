@@ -527,5 +527,17 @@
             "longitude": 120.15,
             "latitude": 30.28
         }
+    },
+    {
+        "nodeName": "繁星点点",
+        "logo": "",
+        "nodeDesc": "",
+        "accountName": "gxc-starry",
+	"location": {
+		    "city": "ShenZhen",
+		    "country": "China",
+		    "longitude": 116,
+		    "latitude": 39
+	}
     }]
 }
