@@ -538,17 +538,18 @@
 		    "country": "China",
 		    "longitude": 113.94663,
 		    "latitude": 22.52708
-	},
+	}
+    },
     {
         "nodeName": "Hotbit",
         "logo": "https://upload-hotbit-io.oss-ap-southeast-1.aliyuncs.com/asset_logos/HTB_LOGO.png",
         "nodeDesc": "Hotbit is one of the professional digital asset exchange platforms that provide trading services among major digital currencies like Bitcoin, Litecoin and Ethereum for users from all over the world.",
         "accountName": "hotbit-pool",
-    "location": {
-            "city": "Republic of Estonia",
-            "country": "Republic of Estonia",
-            "longitude": 25.013607,
-            "latitude": 58.595272
-    }
+        "location": {
+                "city": "Republic of Estonia",
+                "country": "Republic of Estonia",
+                "longitude": 25.013607,
+                "latitude": 58.595272
+        }
     }]
 }
