@@ -482,7 +482,7 @@
 	}
     },{
         "nodeName": "GXTOP",
-        "logo": "https://www.gxchaintop.org/Public/Gxs/img/gxtop.jpg",
+        "logo": "https://static.gxb.io/dapp/blockcity/nodevote/53.png",
         "nodeDesc": "GXTOP目前社区成员多为北美的公信宝支持者和生态相关伙伴。美东现在的工作如火如荼，GXTOP将通过努力撑起公信宝美西以及美中的工作，以达到覆盖全美的战略布局",
         "accountName": "gxtop",
         "location": {
@@ -506,7 +506,7 @@
     },
     {
         "nodeName": "链嗅网",
-        "logo": "https://www.chainxiu.com/chainxiu.jpg",
+        "logo": "https://static.gxb.io/dapp/blockcity/nodevote/55.png",
         "nodeDesc": "链嗅网聚合优质的创新信息与人群，捕获精选|深度|犀利的区块链新闻、资讯、行情、数据。在链嗅，不错过区块链的每个重要时刻。为区块链创业者以及数字货币投资者提供最好的产品和服务，链嗅网一直在努力。",
         "accountName": "chainxiu",
         "location": {
@@ -518,7 +518,7 @@
     },
     {
         "nodeName": "节点易",
-        "logo": "https://www.nodeasy.com/nodeasy_360_360.jpg",
+        "logo": "https://static.gxb.io/dapp/blockcity/nodevote/56.png",
         "nodeDesc": "Nodeasy.com，助你进入Staking时代！",
         "accountName": "nodeasy2020",
         "location": {
@@ -530,7 +530,7 @@
     },
     {
         "nodeName": "繁星点点",
-        "logo": "https://static.westarcloud.com/5e7ae8cf687572006f205a66/images/20200407/starry_220701.jpg",
+        "logo": "https://static.gxb.io/dapp/blockcity/nodevote/57.png",
         "nodeDesc": "价值赋能信任基石；同相聚，共相守;繁星共识，初心共守；价值维系，行而不缀。",
         "accountName": "gxc-starry",
 	"location": {
@@ -542,7 +542,7 @@
     },
     {
         "nodeName": "Hotbit",
-        "logo": "https://upload-hotbit-io.oss-ap-southeast-1.aliyuncs.com/asset_logos/HTB_LOGO.png",
+        "logo": "https://static.gxb.io/dapp/blockcity/nodevote/58.png",
         "nodeDesc": "Hotbit is one of the professional digital asset exchange platforms that provide trading services among major digital currencies like Bitcoin, Litecoin and Ethereum for users from all over the world.",
         "accountName": "hotbit-pool",
         "location": {
@@ -554,7 +554,7 @@
     },
     {
         "nodeName": "虎符",
-        "logo": "https://static.hoozh.com/static_pc/image/exchange/logo1.png",
+        "logo": "https://static.gxb.io/dapp/blockcity/nodevote/59.png",
         "nodeDesc": "虎符交易所是全球领先的加密货币交易所，支持多种数字加密货币交易，致力于发现优质的创新数字资产投资机会，通过搭建一流平台及整合优质资产，为全球广大数字资产爱好者提供安全高效的交易服务。虎符采用银行级别的SSL安全连接保证交易的安全性，GSLB和分布式服务器保证平台的稳定性。",
         "accountName": "gxc-hooexchange",
         "location": {
