@@ -551,5 +551,17 @@
                 "longitude": 25.013607,
                 "latitude": 58.595272
         }
+    },
+    {
+        "nodeName": "虎符",
+        "logo": "https://static.hoozh.com/static_pc/image/exchange/logo1.png",
+        "nodeDesc": "虎符交易所是全球领先的加密货币交易所，支持多种数字加密货币交易，致力于发现优质的创新数字资产投资机会，通过搭建一流平台及整合优质资产，为全球广大数字资产爱好者提供安全高效的交易服务。虎符采用银行级别的SSL安全连接保证交易的安全性，GSLB和分布式服务器保证平台的稳定性。",
+        "accountName": "gxc-hooexchange",
+        "location": {
+            "country": "China",
+            "city": "ShenZhen",
+            "longitude": 113.95794089498,
+            "latitude": 22.535666225755
+        }
     }]
 }
