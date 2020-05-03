@@ -365,5 +365,13 @@
         "nodeDesc": "币圈行情资讯龙头企业，为数百万专业人士提供行情服务。",
 
         "accountName": "fxhjd"
-    }]
+    },
+    {
+        "nodeName": "王巨",
+        "logo": "https://raw.githubusercontent.com/wjfree/gxchain-csharp-sdk/master/nodelogo.png",
+        "nodeDesc": "GXC早期投资者，热爱区块链技术",
+
+        "accountName": "wjfree2017"
+    }
+    ]
 }
