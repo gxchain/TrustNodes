@@ -574,5 +574,16 @@
             "longitude": 139.7454329,
             "latitude": 35.6585805
         }
+    },{
+        "nodeName": "FLY",
+        "logo": "https://static.gxb.io/dapp/blockcity/nodevote/61.png",
+        "nodeDesc": "维护公链网络安全，助力公链健康发展，提高投票用户收益",
+        "accountName": "gxc-fly",
+    "location": {
+            "city": "Hong Kong",
+            "country": "China",
+            "longitude": 115.12,
+            "latitude": 21.23
+        }
     }]
 }
