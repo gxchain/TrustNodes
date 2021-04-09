@@ -585,5 +585,27 @@
             "longitude": 115.12,
             "latitude": 21.23
         }
+    },{
+        "nodeName": "开拓者",
+        "logo": "http://static.gxcfly.top/images/logo/pioneer-logo-explorer.png",
+        "nodeDesc": "Pioneer节点是以社群为主体，让更多人的人了解公信宝",
+        "accountName": "pioneer",
+    "location": {
+            "city": "Hong Kong",
+            "country": "China",
+            "longitude": 115.12,
+            "latitude": 21.23
+        }
+    },{
+        "nodeName": "Shanghai节点",
+        "logo": "http://static.gxcfly.top/images/logo/shanghai-logo-explorer.png",
+        "nodeDesc": "我们是一群喜欢公信宝，热爱公信宝的忠实持币者，希望跟着公信宝一同在区块链的蓝海中长久发展",
+        "accountName": "gxc-shanghai",
+    "location": {
+            "city": "Hong Kong",
+            "country": "China",
+            "longitude": 115.12,
+            "latitude": 21.23
+        }
     }]
 }
