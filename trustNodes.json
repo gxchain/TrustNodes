@@ -607,6 +607,17 @@
             "longitude": 115.12,
             "latitude": 21.23
         }
+    },{
+        "nodeName": "Golff",
+        "logo": "https://doc.golff.finance/file/logo/logo100x100.png",
+        "nodeDesc": "Golff 定位于一站式加密银行，产品形态主要为DeFi聚合器平台，致力于创造一个轻量、开放、自由的金融世界。",
+        "accountName": "golff-finance",
+    "location": {
+            "city": "Singapore",
+            "country": "Singapore",
+            "longitude": 103.8198,
+            "latitude": 1.3521
+        }
     }, {
         "nodeName": "FLY-POOL矿池节点",
         "logo": "http://static.gxcfly.top/images/logo/gxc-fly-pool-logo.png",
@@ -618,6 +629,6 @@
             "longitude": 115.12,
             "latitude": 21.23
         }
-    } 
-    ]
+    }
+	]
 }
