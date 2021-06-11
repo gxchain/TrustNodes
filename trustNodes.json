@@ -618,5 +618,17 @@
             "longitude": 103.8198,
             "latitude": 1.3521
         }
-    }]
+    }, {
+        "nodeName": "FLY-POOL矿池节点",
+        "logo": "http://static.gxcfly.top/images/logo/gxc-fly-pool-logo.png",
+        "nodeDesc": "维护公链网络安全，助力公链健康发展，提高投票用户收益",
+        "accountName": "gxc-fly-pool",
+    "location": {
+            "city": "Hong Kong",
+            "country": "China",
+            "longitude": 115.12,
+            "latitude": 21.23
+        }
+    }
+	]
 }
